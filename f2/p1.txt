@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Master content
+=======
+Updated in first branch
+>>>>>>> first
+Updated in first branch
